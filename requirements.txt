@@ -4,4 +4,4 @@ requests==2.26.0
 
 python-binance==1.0.12
 
-binance.websockets==2.1.10
+binance.websockets
