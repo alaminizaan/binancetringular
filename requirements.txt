@@ -1,7 +1,0 @@
-numpy
-python-dotenv
-requests
-
-python-binance
-
-binance.websockets
