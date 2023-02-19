@@ -1,4 +1,5 @@
 ccxt
 numpy
 pandas
-
+flask
+gunicorn
