@@ -1,5 +1,8 @@
 ccxt
 numpy
 pandas
-flask
+
 gunicorn
+flask
+cachetools
+httpx
