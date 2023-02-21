@@ -19,7 +19,7 @@ client = httpx.Client(
 )
 
 # Define the endpoint for the external API
-API_ENDPOINT = "https://api.binance.com/api/v3/ticker/price"
+API_ENDPOINT = "https://api4.binance.com/api/v3/ticker/price"
 
 # Define a helper function for making API requests and caching the results
 @cached(cache)
